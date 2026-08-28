@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Compiled Java bytecode
+*.class
+
+# Build output
+out/
+bin/
+
+# Compiled C binaries
+module6/hello
+module6/math_ops
+module6/swap
